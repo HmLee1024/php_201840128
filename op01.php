@@ -1,10 +1,4 @@
 <?php
 
-$a = 1;
-$b = &$a;
-echo $a."\n";
-echo $b."\n";
-
-$a = 2;
-echo $a."\n";
-echo $b."\n";
+echo intval(5/2)."\n";
+echo (5%2)."\n";
