@@ -11,7 +11,7 @@ localhost가 not found로 나오는 이유
 include 소스가 몇줄이 되었든 다 집어 넣는다.
 
 ## -3-
-![3_오류제어연산자include오류가나도실행됨](./images/3_오류제어연산자 include 오류가나도 실행됨.PNG)
+![3_오류제어연산자include오류가나도실행됨](./images/3_오류제어연산자 include 오류가나도 실행됨.png)
 오류제어연산자 include 오류가나도 실행됨
 
 ## -4-
