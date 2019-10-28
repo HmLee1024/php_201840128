@@ -1,4 +1,8 @@
 <?php
+
+echo "파일목록출력";
+
+/*
 echo "파일 목록을 출력합니다.";
 $path = "./";
 files($path);
@@ -19,3 +23,4 @@ function files($path){
         
     }
 }
+*/

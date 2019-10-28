@@ -1,5 +1,9 @@
 <?php
-session_start();
-
-echo $_SESSION["username"]." 로그인 합니다.";
-echo "학번은 =" . $_COOKIE["mynum"]."입니다.";
+$loop = true;
+$i=1;
+while($loop){
+    echo "반복합니다.";
+    if($i<=5) {
+        $loop=++$i;
+    }
+}
