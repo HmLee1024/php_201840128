@@ -3,73 +3,89 @@
 ## 수업내용정리
 
 ### -1-
-![1](./images/1_localhost notfound로 나오는 이유.PNG)  
-localhost가 not found로 나오는 이유
+![1](./images/캡처1 database연동을 위한 작업.PNG)  
+database연동을 위한 작업이다.
 
 ### -2-
-![2](./images/2_include 소스가 몇줄이 되었든 다 집어 넣는다.PNG)  
-include 소스가 몇줄이 되었든 다 집어 넣는다.
+![2](./images/캡처2 주석 뻬고 다시 서버 시작하면 활성화 됨.PNG)  
+주석 뻬고 다시 서버 시작하면 활성화 된다.
 
 ### -3-
-![3](./images/3_오류제어연산자.PNG)  
-오류제어연산자 include 오류가나도 실행됨
+![3](./images/캡처3 접속이 안돼요.PNG)  
+접속이 안됩니다.
 
 ### -4-
-![4](./images/4_require 경로지정.PNG)  
-require 경로지정
+![4](./images/캡처4 보강.PNG)  
+보강입니다.
 
 ### -5-
-![5](./images/4_require 파일경로가 달라도 실행중단됨.PNG)  
-require 파일경로가 달라도 실행중단됨
+![5](./images/캡처4 db연동하기.PNG)  
+db연동하기
 
 ### -6-
-![6](./images/4_require 파일이 없으면 실행이 중단된다. Falid 됨.PNG)  
-4_require 파일이 없으면 실행이 중단된다. Falid 됨
+![6](./images/캡처5 include하기.PNG)  
+include하기
 
 ### -7-
-![7](./images/4_require 파일이있으면 실행.PNG)  
-require 파일이있으면 실행
+![7](./images/캡처6 !쓰냐 한쓰냐.PNG)  
+! 사용하는가 사용하지 않는가.
 
 ### -8-
-![8](./images/5_경로지정.PNG)  
-경로지정 한다.
+![8](./images/캡처7 connect_errno 활용.PNG)  
+connect_errno 활용하기
 
 ### -9-
-![9](./images/6_return으로 값 저장시키고 출력.PNG)  
-return으로 값 저장시키고 출력
+![9](./images/캡처8 성공과 실패.PNG)  
+성공과 실패입니다.
 
 ### -10-
-![10](./images/7_변수값 출력.PNG)  
-변수값 출력
+![10](./images/캡처9 vs안에 테이블 만들기.PNG)  
+vs안에 테이블 만들기
 
 ### -11-
-![11](./images/8_변수타입지정.PNG)  
-변수타입지정
+![11](./images/캡처10 클래스 생성할 때 .PNG)  
+클래스 생성할 때 
 
 ### -12-
-![12](./images/8_array 배열이용하여출력.PNG)  
-array 배열이용하여출력
+![12](./images/캡처11 클래스 생성과 db접속.PNG)  
+클래스 생성과 db접속한다.
 
 ### -13-
-![13](./images/8_list 이용하여 출력.PNG)  
-list 이용하여 출력
+![13](./images/캡처12 복합 객체 사용.PNG)  
+복합 객체 사용
 
 ### -14-
-![14](./images/9_include (1).PNG)  
-include에 대해서
+![14](./images/캡처13 테이블 갯수.PNG)  
+테이블 갯수
 
 ### -15-
-![15](./images/9_include_once (1)여러개의 인클루드를 호출해도 한번만 실행된다.PNG)  
-include_once 여러개의 인클루드를 호출해도 한번만 실행된다
+![15](./images/캡처14 쿼리 생성과 테이블의 유무.PNG)  
+쿼리 생성과 테이블의 유무
 
 ### -16-
-![16](./images/9_include_once (2).PNG)  
-include_once (2)
+![16](./images/캡처15 파일명 구분.PNG)  
+파일명 구분
 
 ### -17-
-![17](./images/10_여러개의 메소드를 클래스안에 정의할 수 있다.PNG)  
-여러개의 메소드를 클래스안에 정의할 수 있다.
+![17](./images/캡처16 테이블 클래스 생성.PNG)  
+테이블 클래스 생성하기
 
 ### -18-
-![18](./images/10_클래스의 정의와 호출.PNG)  
-클래스의 정의와 호출
+![18](./images/캡처17 getter setter 사용.PNG)  
+getter setter 사용하기
+
+### -19-
+![19](./images/캡처18 성공.PNG)  
+성공
+
+### -20-
+![20](./images/캡처19 테스트 객체.PNG)  
+테스트 객체
+
+### -21-
+![21](./images/캡처20 프로그램의 다양한 패턴.PNG)  
+프로그램의 다양한 패턴
+
+### -22-
+![22](./images/캡처21 팩토리 패턴.PNG)  
+팩토리 패턴 
